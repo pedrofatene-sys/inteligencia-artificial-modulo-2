@@ -1,8 +1,8 @@
 // Lista de vídeos do YouTube (IDs extraídos das URLs)
 const channels = [
-    { id: 'xUarb_lxPUc', name: 'O que vamos aprender no curso?' },
-    { id: 'J7ABOxu1sdw', name: 'Por que é tão importante aprender IA?' },
-    { id: 'QAMF8irwPxM', name: 'Tire suas dúvidas do curso com a gente' }
+    { id: 'x80ITt2xVuo', name: 'O que vamos aprender no módulo 2?' },
+    { id: 'VWrbpuLXPAY', name: 'Conheça o formato MarkDown?' },
+    { id: 'RkI0FdamUe8', name: 'Markdown: como usar?' }
       
 ];
 
