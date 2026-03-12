@@ -33,7 +33,7 @@ const channels = [
     { id: '5IHxVWj0QT8', name: 'Crie Sua Foto de LinkedIn em Minutos com Nano Banana do Google' },
     { id: 'pv4pTteJOwA', name: 'Do Prompt ao Agente: Criando Assistentes Funcionais no GPT e no Gemini' },
     { id: 'LE6mQ5YfqYw', name: 'ESQUEÇA o Duolingo: Conheça a IA para conversação em Inglês' },
-    { id: '6iYcUTNqdk0', name: 'FIM DO MÓDULO 2! O que você precisa saber após concluir' },
+    { id: '6iYcUTNqdk0', name: 'FIM DO MÓDULO 2! O que você precisa saber após concluir' }
 ];
 
 // Estado atual
