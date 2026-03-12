@@ -4,7 +4,7 @@ const channels = [
     { id: 'VWrbpuLXPAY', name: 'Conheça o formato MarkDown?' },
     { id: 'RkI0FdamUe8', name: 'Markdown: como usar?' },
     { id: 'Ps7J5dgB9hE', name: 'Markdown: Guia Prático com 4 Exemplos' },
-    { id: 'uLFYECq0LY8', name: Crie Personagens incríveis com IA' },
+    { id: 'uLFYECq0LY8', name: 'Crie Personagens incríveis com IA' },
     { id: 'mrneSSJEiKM', name: 'Aprimorando seus prompts (parte 1)' },
     { id: 'G2MuXCuAm24', name: 'Método ACR: Segredo para prompts Perfeitos com IA (parte 1)' },
     { id: 'z9vbwWA7tgM', name: 'Método ACR: criação e refinamento (parte 2)' },
@@ -23,7 +23,7 @@ const channels = [
     { id: 'gq5rEHs_QsA', name: 'Como Converter Sites e Documentos em Markdown' },
     { id: 'nVUTQJW0mCY', name: 'Frameworks Explicados: Descubra o Poder do STAR' },
     { id: 'BKb4PR_HUjA', name: 'Domine os 4 Pilares do Prompt Perfeito em IA' },
-    { id: 'g38vkipn68E', name: 'Como Estudar para o ENEM Usando Inteligência Artificia' },
+    { id: 'g38vkipn68E', name: 'Como Estudar para o ENEM Usando Inteligência Artificia' }
 ];
 
 // Estado atual
