@@ -23,7 +23,17 @@ const channels = [
     { id: 'gq5rEHs_QsA', name: 'Como Converter Sites e Documentos em Markdown' },
     { id: 'nVUTQJW0mCY', name: 'Frameworks Explicados: Descubra o Poder do STAR' },
     { id: 'BKb4PR_HUjA', name: 'Domine os 4 Pilares do Prompt Perfeito em IA' },
-    { id: 'g38vkipn68E', name: 'Como Estudar para o ENEM Usando Inteligência Artificia' }
+    { id: 'g38vkipn68E', name: 'Como Estudar para o ENEM Usando Inteligência Artificial' },
+    { id: 'olQlblu16Pg', name: 'Aplicando os 4 Pilares do Prompt Perfeito na Prática' },
+    { id: '0V6DvowPje0', name: 'Como Criar Prompts Eficazes: Estudo e Marketing com IA' },
+    { id: 'rQXhYlENofA', name: 'A IA que cria histórias mágicas com suas fotos!' },
+    { id: 'JZs8tMWeCvQ', name: 'Do Prompt ao Resultado: Avaliando Redações Reais com IA' },
+    { id: '6xLbA7yTa-o', name: 'Como Gerar Temas Prováveis para a Redação do ENEM com IA' },
+    { id: 'ObZvcXrF-9I', name: 'Assistentes Ajudam, Agentes Resolvem: o Conceito Que Muda Tudo' },
+    { id: '5IHxVWj0QT8', name: 'Crie Sua Foto de LinkedIn em Minutos com Nano Banana do Google' },
+    { id: 'pv4pTteJOwA', name: 'Do Prompt ao Agente: Criando Assistentes Funcionais no GPT e no Gemini' },
+    { id: 'LE6mQ5YfqYw', name: 'ESQUEÇA o Duolingo: Conheça a IA para conversação em Inglês' },
+    { id: '6iYcUTNqdk0', name: 'FIM DO MÓDULO 2! O que você precisa saber após concluir' },
 ];
 
 // Estado atual
