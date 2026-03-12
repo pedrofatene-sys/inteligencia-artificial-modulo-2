@@ -23,7 +23,7 @@ const channels = [
     { id: 'gq5rEHs_QsA', name: 'Como Converter Sites e Documentos em Markdown' },
     { id: 'nVUTQJW0mCY', name: 'Frameworks Explicados: Descubra o Poder do STAR' },
     { id: 'BKb4PR_HUjA', name: 'Domine os 4 Pilares do Prompt Perfeito em IA' },
-    { id: 'g38vkipn68E', name: 'Como Estudar para o ENEM Usando Inteligência Artificial' }
+    { id: 'g38vkipn68E', name: 'Como Estudar para o ENEM Usando Inteligência Artificia' }
 ];
 
 // Estado atual
