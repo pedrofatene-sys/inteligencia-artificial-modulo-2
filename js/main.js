@@ -2,8 +2,28 @@
 const channels = [
     { id: 'x80ITt2xVuo', name: 'O que vamos aprender no módulo 2?' },
     { id: 'VWrbpuLXPAY', name: 'Conheça o formato MarkDown?' },
-    { id: 'RkI0FdamUe8', name: 'Markdown: como usar?' }
-      
+    { id: 'RkI0FdamUe8', name: 'Markdown: como usar?' },
+    { id: 'Ps7J5dgB9hE', name: 'Markdown: Guia Prático com 4 Exemplos' },
+    { id: 'uLFYECq0LY8', name: Crie Personagens incríveis com IA' },
+    { id: 'mrneSSJEiKM', name: 'Aprimorando seus prompts (parte 1)' },
+    { id: 'G2MuXCuAm24', name: 'Método ACR: Segredo para prompts Perfeitos com IA (parte 1)' },
+    { id: 'z9vbwWA7tgM', name: 'Método ACR: criação e refinamento (parte 2)' },
+    { id: 'HQrvL2uBRGA', name: 'Aprimorando seus prompts (parte 2)' },
+    { id: 'VICPdE0j-7w', name: 'IA Geradora de Vídeo: dando vida à personagem' },
+    { id: 'OzoZc39nErs', name: 'Método ACR: dúvidas e exemplos (parte 3)' },
+    { id: 'RaSxjr6F_eI', name: 'Usando IA para estudar e aprender' },
+    { id: 'ttNwhINH1Sg', name: 'Evolução da IA: Como Surgiu a Inteligência Artificial (Parte 1)' },
+    { id: 'GyzDcvI5z98', name: 'Criei a sala dos sonhos usando apenas o ChatGPT' },
+    { id: 'LfHhST3sXug', name: 'Evolução da IA: da reação à autoconsciência (Parte 2)' },
+    { id: '_c8o--f1JkQ', name: 'O Google acabou com o Photoshop usando uma Banana' },
+    { id: 'zwBrslY7J2k', name: 'As 3 Etapas da IA: Começando pela IA Fraca' },
+    { id: 'zwBrslY7J2k', name: 'AGI: A Próxima Fronteira da Inteligência Artificial' },
+    { id: 'ncnpJvohgk8', name: 'O que é a Superinteligência Artificial (ASI)?' },
+    { id: 'oQbRIOxdH_c', name: '5 Hacks no Notebook LM que vão mudar seus estudos' },
+    { id: 'gq5rEHs_QsA', name: 'Como Converter Sites e Documentos em Markdown' },
+    { id: 'nVUTQJW0mCY', name: 'Frameworks Explicados: Descubra o Poder do STAR' },
+    { id: 'BKb4PR_HUjA', name: 'Domine os 4 Pilares do Prompt Perfeito em IA' },
+    { id: 'g38vkipn68E', name: 'Como Estudar para o ENEM Usando Inteligência Artificia' },
 ];
 
 // Estado atual
